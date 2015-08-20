@@ -8,5 +8,5 @@ end
 task :default => :test
 
 task :awesome do
-  puts "awesome"
+  puts "awesome!!!  "
 end
