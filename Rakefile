@@ -6,3 +6,7 @@ Rake::TestTask.new do |t|
 end
 
 task :default => :test
+
+task :awesome do
+  puts "awesome!!!  "
+end
